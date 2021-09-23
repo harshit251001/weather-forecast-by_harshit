@@ -1,0 +1,11 @@
+.active-unit{
+    cursor: pointer;
+}
+.selected{
+    background-color: rgb(172, 170, 170);
+}
+.jumbotron{
+    border-radius: 0rem !important;
+    padding-top: 5rem !important;
+    background-color: transparent !important;
+}

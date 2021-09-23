@@ -1,0 +1,15 @@
+.carousel-img{
+    width: 3.5rem !important;
+}
+.day-card{
+    border: 2px solid transparent;
+    max-width: 140px !important;
+}
+.day-card:hover{
+    border: 2px solid #c6e8ff2f;
+}
+.selected{
+    background-color: #c6e8ff2f;
+}
+
+
