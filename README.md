@@ -1,5 +1,4 @@
 # Weather Forecast App
-[Link to live project]()
 
 ![image](https://user-images.githubusercontent.com/56963461/132959328-20246806-dc81-4173-bd9f-96e6ac7b119c.png)
 ![image](https://user-images.githubusercontent.com/56963461/132959340-042cc9d5-f045-48d9-bc83-c32e2f0c2a6d.png)
